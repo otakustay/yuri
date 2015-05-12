@@ -1,0 +1,34 @@
+{
+    "name": "yuri",
+    "version": "0.0.1",
+    "homepage": "https://github.com/otakustay/yuri",
+    "authors": [
+        "otakustay"
+    ],
+    "description": "Yet the Unknown Rich Interface",
+    "main": "main.js",
+    "moduleType": [
+        "amd",
+        "es6"
+    ],
+    "keywords": [
+        "UI",
+        "MVVM"
+    ],
+    "license": "GPL3",
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "dep",
+        "test",
+        "tests"
+    ],
+    "dependencies": {
+        "nib": "~1.1.0",
+        "jquery": "~2.1.4",
+        "font-awesome-stylus": "~4.3.0",
+        "mini-event": "~1.0.2",
+        "emc": "~1.0.2"
+    }
+}
